@@ -17,3 +17,7 @@ body{
   h2{
     color: #0d326b;
   }
+
+  p.bastic{
+    display: none;
+  }
