@@ -1,4 +1,4 @@
 Angela Yu Web Development Course Starts Today !
 
-Course Link (Free Access) :
-https://mega.nz/folder/3WhSkBjJ#YSDBnDegckd9-xSQ04W0qA/folder/HK4wkLRZ
+Course Link :
+https://www.udemy.com/course/the-complete-web-development-bootcamp/
